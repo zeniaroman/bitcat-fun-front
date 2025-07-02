@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>BITCAT Universe</title>
+</head>
+<body>
+  <script>
+    const currentUrl = window.location.href;
+
+    if (currentUrl.includes('/universe/')) {
+        const newUrl = currentUrl.replace('/universe/', '/');
+        window.location.href = newUrl;
+    }
+  </script>
+</body>
+</html>
