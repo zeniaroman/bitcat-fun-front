@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkapp"]=self["webpackChunkapp"]||[]).push([[6362],{71241:function(c,p){p.A=(c,p)=>{const s=c.__vccOpts||c;for(const[n,t]of p)s[n]=t;return s}}}]);
+//# sourceMappingURL=6362.2bc035f1.js.map
