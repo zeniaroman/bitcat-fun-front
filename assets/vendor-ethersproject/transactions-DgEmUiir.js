@@ -1,0 +1,1 @@
+import{g as r}from"./address-C-94Rlzo.js";import{e as c}from"./bytes-BFUO92dS.js";import{k as i}from"./keccak256-BpI13PIi.js";import{c as t}from"./signing-key-DZY4IiDE.js";var m;(function(e){e[e.legacy=0]="legacy",e[e.eip2930=1]="eip2930",e[e.eip1559=2]="eip1559"})(m||(m={}));function d(e){const o=t(e);return r(c(i(c(o,1)),12))}export{d as c};
