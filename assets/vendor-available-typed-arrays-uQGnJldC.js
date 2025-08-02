@@ -1,1 +1,0 @@
-import{r as o}from"./vendor-possible-typed-array-names-BKRybAhF.js";var l,i;function y(){if(i)return l;i=1;var a=o(),s=globalThis;return l=function(){for(var e=[],r=0;r<a.length;r++)typeof s[a[r]]=="function"&&(e[e.length]=a[r]);return e},l}export{y as r};

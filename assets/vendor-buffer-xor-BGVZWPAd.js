@@ -1,1 +1,0 @@
-import{b as a}from"./vendor-buffer-DVXvU5G6.js";var e,o;function s(){return o||(o=1,e=function(f,u){for(var n=Math.min(f.length,u.length),t=new a.Buffer(n),r=0;r<n;++r)t[r]=f[r]^u[r];return t}),e}export{s as r};
